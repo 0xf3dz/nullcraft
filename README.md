@@ -28,6 +28,7 @@ Real-time Telegram alerts for large Polymarket trades. Track whale activity and 
 ```
 POLYMARKET_KEY=your_key
 TELEGRAM_BOT_TOKEN=your_token
+POLYMARKET_PROXY_ADDRESS=your_proxy_address
 ```
 
 4. `python main.py`
