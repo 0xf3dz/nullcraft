@@ -25,8 +25,10 @@ Real-time Telegram alerts for large Polymarket trades. Track whale activity and 
 1. Clone repo
 2. `pip install -r requirements.txt` 
 3. Set environment variables:
+```
 POLYMARKET_KEY=your_key
 TELEGRAM_BOT_TOKEN=your_token
+```
 
 4. `python main.py`
 
